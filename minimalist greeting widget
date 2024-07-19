@@ -17,7 +17,7 @@
 
         .widget {
             padding: 5px 5px ;
-            color: #EDE8DO;
+            color: #F4EFEA;
             display: flex;
             justify-content:center;
             align-items:center;
